@@ -1,4 +1,4 @@
-module github.com/hashicorp/memberlist
+module github.com/sak0/memberlist
 
 require (
 	github.com/armon/go-metrics v0.0.0-20180917152333-f0300d1749da
